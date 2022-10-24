@@ -1,2 +1,0 @@
-python-dotenv==0.13.0
-beautifulsoup==4.11.0
